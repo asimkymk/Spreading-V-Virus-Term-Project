@@ -1,0 +1,7 @@
+Normal    : 1
+Infected  : 0
+Dead      : 2
+Recovered : 0
+entity 1 4x4 dead
+entity 2 4x3 dead
+entity 3 5x1 normal
